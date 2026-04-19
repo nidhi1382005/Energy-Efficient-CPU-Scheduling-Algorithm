@@ -1,0 +1,1 @@
+git commit -m "feat: add DVFS scheduling" -m "Adjusts CPU frequency based on workload to save energy"
